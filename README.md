@@ -55,7 +55,9 @@
   ## Questions
   
   ## Images
-   ![Image](../Note-Taking-App/Note-Taking-App-Image.png/)
+   ![Image](./Assets/Starter%20Page.png)
+   ![Image](./Assets/Note-Taking-App-Image.png)
+
 
   ## Github:
   [GitHub Profile Link](https://github.com/SeanMcNallie/)
